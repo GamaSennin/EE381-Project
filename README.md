@@ -1,2 +1,3 @@
 # EE381-Project
-Arduino code for EE381 project
+Alarm System contains Arduino code for EE381 project.
+Home alarm system.pdf contains the prject report.
